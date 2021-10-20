@@ -1,13 +1,4 @@
-### 👋
-
-# Versão em Portugues: 
-
-- Atualmente estou trabalhando no Smooth Self Bot e Darkinho Bot para Discord com JS
-- Estou Aprendendo JS
-- tenho 15 anos
-- Meu nome é: Vinicius Da Silva Souza Sou Do Brasil
-
-# English Version: 
+## 🤠🤙
 
 - I’m currently working on Smooth Self Bot and Darkinho Bot for Discord w/ JS
 - Leaning JS
