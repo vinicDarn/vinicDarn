@@ -13,10 +13,7 @@
 - My Name is: Vinicius Da Silva Souza From Brazil 
 
 ⠀
+⠀![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=typevs&layout=compact&theme=github_dark)
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=typevs&show_icons=true&theme=github_dark) 
 ⠀
-
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=typevs&layout=compact&theme=github_dark)
-⠀
+⠀![GitHub stats](https://github-readme-stats.vercel.app/api?username=typevs&show_icons=true&theme=github_dark) 
