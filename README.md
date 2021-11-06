@@ -4,13 +4,13 @@
 <a href=https://open.spotify.com/user/czghl07of3mllegu3mgw96a90)>![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
 <a href=https://www.microsoft.com/pt-br/windows/get-windows-10> ![My OS System](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>
 
-
+## Opa me chamo Vinicius, mas pode me chamar de Vini ou Typão
 ### 🤠🤙
 
-- I’m currently working on Smooth Self Bot and Darkinho Bot for Discord w/ JS
-- Learning JS
-- 15 years old
-- My Name is: Vinicius Da Silva Souza From Brazil 
+- Atualmente estou trabalhando no Smooth Self Bot Com PY e Darkinho Bot para Discord Com JS
+- Aprendendo JS
+- 15 anos de idade
+- Sou de SP - Brasil
 
 ⠀
 ⠀![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=typevs&layout=compact&theme=github_dark)
