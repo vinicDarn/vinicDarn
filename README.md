@@ -6,7 +6,7 @@
 ## Opa me chamo Vinicius, mas pode me chamar de Vini ou Typão
 ### 🤠🤙
 
-- Atualmente estou trabalhando no Smooth Self Bot Com PY e Darkinho Bot para Discord Com JS
+- Atualmente estou trabalhando no Smooth Self Bot Com Python e DarkAPI para Discord Com Node JS
 - Aprendendo JS
 - 15 anos de idade
 - Sou de SP - Brasil
