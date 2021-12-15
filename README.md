@@ -10,7 +10,7 @@
 - Aprendendo JS
 - 15 anos de idade
 - Sou de SP - Brasil
-
+- typão#1380
 ⠀
 ⠀![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=typevs&layout=compact&theme=dracula)
 
