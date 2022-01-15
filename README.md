@@ -1,4 +1,3 @@
-<a href= https://www.instagram.com/typevs/) >![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href= https://www.youtube.com/channel/UCsY9wnUKRznPZy1L7jpZfnQ)>![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 <a href= https://www.twitch.tv/typaoo)>![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)</a>
 <a href=https://open.spotify.com/user/czghl07of3mllegu3mgw96a90)>![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
@@ -7,7 +6,6 @@
 ### 🤠🤙
 
 - Atualmente estou trabalhando no Smooth Self Bot Com Python e DarkAPI Com Node JS
-- Aprendendo JS
 - 15 anos de idade
 - Sou de SP - Brasil
 - typão#1380
