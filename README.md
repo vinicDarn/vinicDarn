@@ -9,10 +9,12 @@
 - 15 anos de idade
 - Sou de SP - Brasil
 - typão#1380
+Inglish Version [Here](https://github.com/typevs/typevs/blob/main/Inglish%20Edition)
 
 ⠀
 ⠀![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=typevs&layout=compact&theme=dracula)
 
 ⠀
 ⠀![GitHub stats](https://github-readme-stats.vercel.app/api?username=typevs&show_icons=true&theme=dracula) 
-  [@Inglish Version Here](https://github.com/typevs/typevs/blob/main/Inglish%20Edition)
+  
+  
