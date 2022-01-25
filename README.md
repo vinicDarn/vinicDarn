@@ -15,3 +15,4 @@
 
 ⠀
 ⠀![GitHub stats](https://github-readme-stats.vercel.app/api?username=typevs&show_icons=true&theme=dracula) 
+  [@Inglish Version Here](https://github.com/typevs/typevs/blob/main/Inglish%20Edition)
