@@ -5,16 +5,29 @@
 ## Opa me chamo Vinicius, mas pode me chamar de Vini ou Typão
 ### 🤠🤙
 
-- Atualmente estou trabalhando no Smooth Self Bot Com Python e DarkAPI Com Node JS
+- Atualmente estou Aprendendo C++ & C#
 - 15 anos de idade
 - Sou de SP - Brasil
 - typão#1380
-Inglish Version [Here](https://github.com/typevs/typevs/blob/main/Inglish%20Edition)
 
-⠀
-⠀![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=typevs&layout=compact&theme=dracula)
 
+
+
+# Inglish Version:
+## Hi! my name is Vinicius, but you can call me Vini or Typão
+### 🤠🤙
+
+- I am currently Learning C++ & C#
+- 15 years old
+- I'm from SP - Brazil
+- typão#1380
 ⠀
-⠀![GitHub stats](https://github-readme-stats.vercel.app/api?username=typevs&show_icons=true&theme=dracula) 
+# Stats:
+
+
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=typevs&layout=compact&theme=dracula)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=typevs&show_icons=true&theme=dracula) 
   
   
