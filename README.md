@@ -18,7 +18,7 @@
 ### 🤠🤙
 
 - I am currently Learning C++ & C#
-- 15 years old
+- 16 years old
 - I'm from SP - Brazil
 - typão#1380
 ⠀
