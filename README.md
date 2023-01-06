@@ -6,7 +6,7 @@
 ### 🤠🤙
 
 - Atualmente estou Aprendendo C++ & C#
-- 15 anos de idade
+- 16 anos de idade
 - Sou de SP - Brasil
 - typão#1380
 
