@@ -8,7 +8,7 @@
 - Atualmente estou Aprendendo C++ & C#
 - 16 anos de idade
 - Sou de SP - Brasil
-- typão#1380
+- vinic#1380
 
 
 
@@ -20,7 +20,7 @@
 - I am currently Learning C++ & C#
 - 16 years old
 - I'm from SP - Brazil
-- typão#1380
+- vinic#1380
 ⠀
 # Stats:
 
