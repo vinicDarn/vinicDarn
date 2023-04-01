@@ -5,25 +5,13 @@
 ## Opa me chamo Vinicius, mas pode me chamar de Vini 
 ### 🤠🤙
 
-- Sou de SP - Brasil
+- Sou do interior de SP - Brasil
 - vinic#1380
 
 
 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicDarn&layout=compact&theme=dracula)
 
-# Inglish Version:
-## Hi! my name is Vinicius, but you can call me Vini or Typão
-### 🤠🤙
-
-- I'm from SP - Brazil
-- vinic#1380
-⠀
-# Stats:
-
-
-
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=typevs&layout=compact&theme=dracula)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=typevs&show_icons=true&theme=dracula) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicDarn&show_icons=true&theme=dracula) 
   
   
