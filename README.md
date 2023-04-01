@@ -5,8 +5,6 @@
 ## Opa me chamo Vinicius, mas pode me chamar de Vini 
 ### 🤠🤙
 
-- Atualmente estou Aprendendo C++ & C#
-- 16 anos de idade
 - Sou de SP - Brasil
 - vinic#1380
 
@@ -17,8 +15,6 @@
 ## Hi! my name is Vinicius, but you can call me Vini or Typão
 ### 🤠🤙
 
-- I am currently Learning C++ & C#
-- 16 years old
 - I'm from SP - Brazil
 - vinic#1380
 ⠀
