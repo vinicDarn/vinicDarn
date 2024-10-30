@@ -2,7 +2,7 @@
 ### 🤠🤙
 
 - Sou do interior de SP - Brasil
-- <a href= https://guns.lol> Links
+- <a href=https://guns.lol/vinic> Links
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicDarn&layout=compact&theme=dracula)
 
