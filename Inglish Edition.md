@@ -1,7 +1,7 @@
 ## Hi! my name is Vinicius, but you can call me Vini
 ### 🤠🤙
 
-- <a href= https://guns.lol> links
+- <a href= https://guns.lol/vinic> Links
 
 
 ⠀
